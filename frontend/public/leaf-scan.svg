@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#064e3b" />
+  <!-- AI bounding box corners -->
+  <path d="M10 16V10H16" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M38 16V10H32" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M10 32V38H16" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M38 32V38H32" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Stylized leaf -->
+  <path d="M18 32C18 32 18 24 24 18C30 12 36 12 36 12C36 12 36 18 30 24C24 30 18 32 18 32Z" fill="#10b981" stroke="#34d399" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M18 32L28 22" stroke="#064e3b" stroke-width="2" stroke-linecap="round"/>
+  <!-- Scan beam dot -->
+  <circle cx="28" cy="22" r="2.5" fill="#facc15"/>
+</svg>

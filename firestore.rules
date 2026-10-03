@@ -1,0 +1,20 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // User Prediction History Rules (Strict Account Isolation)
+    match /predictions/{predictionId} {
+      // Authenticated users can create predictions tagged with their own uid
+      allow create: if request.auth != null && request.resource.data.userId == request.auth.uid;
+      
+      // Authenticated users can read their own prediction history only
+      allow read: if request.auth != null && resource.data.userId == request.auth.uid;
+      
+      // Authenticated users can delete their own predictions
+      allow delete: if request.auth != null && resource.data.userId == request.auth.uid;
+      
+      // Deny updates to preserve diagnostic audit trail
+      allow update: if false;
+    }
+  }
+}

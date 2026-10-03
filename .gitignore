@@ -1,0 +1,35 @@
+# Node dependencies & builds
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+serviceAccountKey.json
+firebase-credentials.json
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large ML data & checkpoints (download on demand)
+data/PlantVillage/
+models/*.pth
+!models/README.md

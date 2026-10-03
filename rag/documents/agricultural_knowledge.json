@@ -1,0 +1,272 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Tomato Early Blight Management & Fungicide Protocol",
+    "source": "Cornell University Agricultural Extension",
+    "url": "https://extension.cornell.edu/vegetable-diseases/tomato-early-blight",
+    "crop": "Tomato",
+    "topic": "Tomato Early Blight Alternaria solani symptoms treatment prevention",
+    "content": "Tomato early blight caused by Alternaria solani produces dark brown concentric target-like rings on mature lower leaves. Symptoms include circular brown lesions with yellow halos and a 'bull's-eye' ring pattern. Leaves turn yellow and drop prematurely. Management relies on removing infected foliage up to 45 cm above soil level, converting to drip irrigation to keep leaf surfaces dry, and applying copper octanoate or chlorothalonil before long rainy spells. Crop rotation out of Solanaceae for 3 years prevents spore build-up. Maintain plant spacing to improve airflow. Avoid working in fields when plants are wet."
+  },
+  {
+    "id": "doc_002",
+    "title": "Tomato Late Blight Epidemic Prevention Guide",
+    "source": "University of California Integrated Pest Management (UC IPM)",
+    "url": "http://ipm.ucanr.edu/PMG/r783100211.html",
+    "crop": "Tomato",
+    "topic": "Tomato Late Blight Phytophthora infestans symptoms treatment prevention control",
+    "content": "Tomato late blight caused by Phytophthora infestans is a high-risk oomycete disease thriving in cool, wet conditions (15–22°C with >90% humidity). Symptoms include water-soaked purplish-black lesions with white fuzzy mold on leaf undersides, dark sunken lesions on stems, and firm brown rotting on fruit. Control requires planting certified resistant varieties, destroying volunteer potato plants, and applying anti-oomycete fungicides upon regional weather alerts. Remove infected plant debris promptly and avoid overhead irrigation. Do not save seed from infected crops."
+  },
+  {
+    "id": "doc_003",
+    "title": "Tomato Bacterial Spot Management",
+    "source": "University of Florida IFAS Extension",
+    "url": "https://edis.ifas.ufl.edu/publication/PP19",
+    "crop": "Tomato",
+    "topic": "Tomato Bacterial Spot Xanthomonas symptoms treatment prevention",
+    "content": "Tomato bacterial spot caused by Xanthomonas vesicatoria produces small, water-soaked leaf spots that enlarge to dark brown lesions with yellow halos. Fruit develops raised, scab-like spots. The pathogen spreads through rain splash and infected transplants. Management includes using copper-based bactericides, purchasing certified disease-free transplants, practicing crop rotation, removing and destroying infected plant residue, and avoiding working among wet plants. Resistant varieties significantly reduce losses."
+  },
+  {
+    "id": "doc_004",
+    "title": "Tomato Leaf Mold and Septoria Leaf Spot Control",
+    "source": "Michigan State University Extension",
+    "url": "https://www.canr.msu.edu/vegetables/tomato-leaf-mold",
+    "crop": "Tomato",
+    "topic": "Tomato Leaf Mold Septoria Leaf Spot symptoms identification treatment",
+    "content": "Tomato leaf mold (Passalora fulva) appears as pale green or yellowish spots on the upper leaf surface with olive-green to grayish mold on the lower surface. Septoria leaf spot (Septoria lycopersici) shows numerous small, circular, water-soaked spots with dark borders and light grey centers. Both diseases thrive in high humidity. Management involves improving air circulation, removing lower infected leaves, applying chlorothalonil or copper fungicides, and maintaining dry foliage through drip irrigation. Avoid excessive nitrogen fertilization."
+  },
+  {
+    "id": "doc_005",
+    "title": "Tomato Mosaic Virus and Yellow Leaf Curl Virus Management",
+    "source": "FAO Plant Production and Protection Division",
+    "url": "https://www.fao.org/plant-protection",
+    "crop": "Tomato",
+    "topic": "Tomato Mosaic Virus Yellow Leaf Curl Virus TYLCV symptoms prevention whitefly control",
+    "content": "Tomato Mosaic Virus (ToMV) causes mosaic discolouration, leaf distortion, and stunted growth. Tomato Yellow Leaf Curl Virus (TYLCV) transmitted by whiteflies causes severe upward leaf curling, yellowing, and plant stunting. Prevention requires managing whitefly populations with reflective mulches and yellow sticky traps, using virus-resistant varieties, removing infected plants immediately, sanitizing tools, and never planting near infected solanaceous crops. There is no cure for infected plants."
+  },
+  {
+    "id": "doc_006",
+    "title": "Potato Late Blight and Early Blight Control",
+    "source": "University of Wisconsin Extension",
+    "url": "https://vegpath.plantpath.wisc.edu/potatoes",
+    "crop": "Potato",
+    "topic": "Potato Early Blight Late Blight Alternaria Phytophthora symptoms treatment prevention",
+    "content": "Potato early blight shows concentric ring target spots on lower older leaves; late blight creates dark water-soaked lesions spreading rapidly in cool wet weather. Both require certified disease-free seed tubers, two-year rotation out of Solanaceae, and fungicide application starting at canopy closure. Maintain nitrogen and potassium fertility. Avoid overhead irrigation in the evening. Harvest tubers on dry days and ensure proper storage ventilation to prevent secondary rot."
+  },
+  {
+    "id": "doc_007",
+    "title": "Apple Scab, Black Rot, and Cedar Apple Rust Management",
+    "source": "Penn State Extension Fruit Pathology",
+    "url": "https://extension.psu.edu/apple-scab-management",
+    "crop": "Apple",
+    "topic": "Apple Scab Black Rot Cedar Apple Rust symptoms identification treatment prevention",
+    "content": "Apple scab (Venturia inaequalis) produces olive-green velvety leaf spots and corky fruit lesions. Apple black rot (Botryosphaeria obtusa) causes frog-eye leaf spots and mummified fruit. Cedar apple rust (Gymnosporangium juniperi-virginianae) shows orange spots with tube-like projections on leaves near juniper trees. Management for all three includes: open-canopy pruning for airflow, raking and destroying fallen leaves, removing mummified fruit, applying protective fungicides from petal fall, and planting resistant varieties."
+  },
+  {
+    "id": "doc_008",
+    "title": "Corn Northern Leaf Blight, Gray Leaf Spot, and Common Rust Control",
+    "source": "Purdue University Field Crop Pathology",
+    "url": "https://extension.purdue.edu/field-crop-diseases/corn",
+    "crop": "Corn Maize",
+    "topic": "Corn Northern Leaf Blight Gray Leaf Spot Common Rust symptoms treatment prevention",
+    "content": "Corn Northern Leaf Blight (Exserohilum turcicum) causes long cigar-shaped tan lesions. Gray Leaf Spot (Cercospora zeae-maydis) produces rectangular blocky lesions between leaf veins. Common Rust (Puccinia sorghi) shows oval cinnamon-brown pustules on both leaf surfaces. Management includes planting resistant hybrids, two-year rotation out of corn, foliar fungicide application between V12 and R1 silking, and burying crop residue. Avoid excessive plant density that traps humidity."
+  },
+  {
+    "id": "doc_009",
+    "title": "Grape Black Rot, Esca, and Leaf Blight Management",
+    "source": "Cornell Fruit Agronomy Guidelines",
+    "url": "https://extension.cornell.edu/grapes",
+    "crop": "Grape",
+    "topic": "Grape Black Rot Esca Isariopsis Leaf Blight symptoms treatment prevention canopy management",
+    "content": "Grape black rot (Guignardia bidwellii) causes circular reddish-brown leaf spots and mummified berries. Esca (Black Measles) produces tiger-stripe leaf patterns, internal wood decay, and sudden vine collapse. Isariopsis leaf blight (Pseudocercospora vitis) shows angular dark brown leaf spots. Canopy management through shoot positioning and cluster-zone leaf removal accelerates drying. Critical fungicide protection extends pre-bloom through 4 weeks post-bloom. Remove and destroy all mummified berries and infected wood."
+  },
+  {
+    "id": "doc_010",
+    "title": "Citrus Greening Huanglongbing and Disease Vector Management",
+    "source": "USDA Agricultural Research Service",
+    "url": "https://www.ars.usda.gov/citrus-greening-research",
+    "crop": "Citrus Orange",
+    "topic": "Citrus Greening Huanglongbing HLB symptoms treatment prevention psyllid vector control",
+    "content": "Citrus Greening (HLB) caused by Candidatus Liberibacter asiaticus is transmitted by the Asian Citrus Psyllid. Symptoms include asymmetric blotchy yellow leaf mottling, yellow shoots, and bitter lopsided green fruit. There is no cure. Control focuses on rigorous psyllid vector management using systemic insecticides, planting certified disease-free screenhouse stock, promptly removing infected trees, and monitoring with yellow sticky traps. HLB can devastate an entire orchard within years if unmanaged."
+  },
+  {
+    "id": "doc_011",
+    "title": "Rice Leaf Blast Disease Management",
+    "source": "International Rice Research Institute (IRRI)",
+    "url": "https://www.irri.org/rice-blast",
+    "crop": "Rice",
+    "topic": "Rice Leaf Blast Magnaporthe oryzae Pyricularia symptoms treatment prevention management",
+    "content": "Rice leaf blast caused by Magnaporthe oryzae produces diamond-shaped spindle lesions with gray-white centres and reddish-brown borders. Lesions coalesce causing entire leaf blades to dry (blast). Under high humidity and cool nights the disease spreads rapidly. Treatment: apply systemic fungicides (tricyclazole, isoprothiolane, or azoxystrobin) at first spindle lesion appearance. Prevention: plant blast-resistant varieties suited to local microclimates, avoid excessive nitrogen top-dressing, maintain proper plant spacing, and maintain continuous flood water level. The disease can transition to neck blast during flowering causing total yield loss."
+  },
+  {
+    "id": "doc_012",
+    "title": "Rice Bacterial Blight Management",
+    "source": "International Rice Research Institute (IRRI)",
+    "url": "https://www.irri.org/bacterial-blight",
+    "crop": "Rice",
+    "topic": "Rice Bacterial Blight Xanthomonas oryzae symptoms treatment prevention",
+    "content": "Rice bacterial blight caused by Xanthomonas oryzae pv. oryzae produces water-soaked yellowish stripes along leaf margins that turn white to grayish with wavy edges. Milky bacterial ooze droplets dry into yellow beads on young leaves. Management: drain infected fields temporarily, avoid excessive nitrogen fertilizer, apply copper-based bactericides where registered, and plant resistant varieties carrying Xa21 or Xa4 resistance genes. Disease spreads after tropical storms through rain splash and wind. Remove weed hosts from paddy bunds."
+  },
+  {
+    "id": "doc_013",
+    "title": "Rice Brown Spot Disease Management",
+    "source": "International Rice Research Institute (IRRI)",
+    "url": "https://www.irri.org/rice-diseases",
+    "crop": "Rice",
+    "topic": "Rice Brown Spot Bipolaris oryzae Helminthosporium symptoms treatment prevention",
+    "content": "Rice brown spot caused by Bipolaris oryzae shows oval to circular reddish-brown spots on leaves with yellow chlorotic halos. Severe infections cause foliage blighting and poor grain filling. This disease is often associated with nutrient-deficient soils. Management: apply balanced potassium and silicon soil amendments, use certified fungicide-treated seeds, maintain optimal continuous flood depth, apply mancozeb or edifenphos fungicides at early tillering. Address underlying soil potassium deficiency as it significantly increases susceptibility."
+  },
+  {
+    "id": "doc_014",
+    "title": "Wheat Rust Diseases: Yellow, Brown, and Black Rust",
+    "source": "CIMMYT (International Maize and Wheat Improvement Center)",
+    "url": "https://www.cimmyt.org/research/wheat-rust",
+    "crop": "Wheat",
+    "topic": "Wheat Yellow Stripe Rust Brown Leaf Rust Black Stem Rust Puccinia symptoms treatment prevention",
+    "content": "Wheat rusts are major fungal diseases. Yellow (stripe) rust (Puccinia striiformis) causes yellow-orange stripes along leaf veins; brown (leaf) rust (Puccinia triticina) shows circular orange pustules on leaves; black (stem) rust (Puccinia graminis) produces large reddish-brown pustules on stems. Control: plant rust-resistant wheat varieties, apply foliar fungicides (triazoles like propiconazole or tebuconazole) at flag leaf emergence, monitor regional rust alerts, and implement early harvesting when infection is severe."
+  },
+  {
+    "id": "doc_015",
+    "title": "Wheat Powdery Mildew and Septoria Blotch",
+    "source": "University of Nebraska Extension",
+    "url": "https://cropwatch.unl.edu/wheat/disease",
+    "crop": "Wheat",
+    "topic": "Wheat Powdery Mildew Blumeria graminis Septoria symptoms treatment prevention",
+    "content": "Wheat powdery mildew (Blumeria graminis) produces white fluffy fungal colonies on leaf surfaces, reducing photosynthesis. Septoria leaf blotch (Zymoseptoria tritici) shows tan irregular blotches with dark pycnidia dots. Both thrive in wet conditions. Management: select resistant varieties, apply triazole or strobilurin fungicides from tillering through flag leaf stage, maintain balanced nitrogen fertilization, avoid dense sowing rates, and rotate with non-cereal crops. Remove infected volunteers between seasons."
+  },
+  {
+    "id": "doc_016",
+    "title": "Cotton Bacterial Blight and Leaf Spot",
+    "source": "Texas A&M AgriLife Extension",
+    "url": "https://agrilifeextension.tamu.edu/cotton-diseases",
+    "crop": "Cotton",
+    "topic": "Cotton Bacterial Blight Xanthomonas malvacearum Angular Leaf Spot symptoms treatment prevention",
+    "content": "Cotton bacterial blight (angular leaf spot) caused by Xanthomonas citri pv. malvacearum produces angular water-soaked spots on leaves that turn brown with yellow halos. Boll rot is the most damaging phase. Management includes planting disease-free, acid-delinted seed treated with bactericide, rotating crops, avoiding overhead irrigation, and removing infected plant debris. There are no highly effective chemical controls once infection occurs. Resistant varieties are the primary management tool."
+  },
+  {
+    "id": "doc_017",
+    "title": "Cotton Fusarium and Verticillium Wilt Control",
+    "source": "University of Arizona Cooperative Extension",
+    "url": "https://extension.arizona.edu/cotton-wilt",
+    "crop": "Cotton",
+    "topic": "Cotton Fusarium Wilt Verticillium Wilt symptoms treatment prevention soil management",
+    "content": "Fusarium wilt (Fusarium oxysporum) causes yellowing of lower leaves followed by rapid plant collapse; Verticillium wilt (Verticillium dahliae) shows progressive interveinal leaf chlorosis and brown internal vascular tissue. Both are soil-borne. Management: plant resistant varieties, rotate with corn or small grains, fumigate heavily infested soil, maintain balanced soil pH and fertility, avoid over-irrigation, and use certified disease-free planting material. Once established in soil these pathogens persist for many years."
+  },
+  {
+    "id": "doc_018",
+    "title": "Sugarcane Red Rot and Smut Disease",
+    "source": "ICAR Sugarcane Breeding Institute",
+    "url": "https://www.sugarcane.res.in/diseases",
+    "crop": "Sugarcane",
+    "topic": "Sugarcane Red Rot Colletotrichum Smut Sporisorium symptoms treatment prevention",
+    "content": "Sugarcane red rot (Colletotrichum falcatum) causes red discolouration of internal stalk tissue with white patches and an alcoholic odour. Smut (Sporisorium scitamineum) produces a distinctive black whip-like structure from the growing point. Management: use disease-free seed cane, hot water treatment of setts at 50°C for 2 hours, plant resistant varieties, rogue and destroy infected plants immediately, and practice 3-year rotation. Remove smut whips before they rupture to prevent spore spread."
+  },
+  {
+    "id": "doc_019",
+    "title": "Banana Fusarium Wilt (Panama Disease) and Sigatoka",
+    "source": "FAO Banana Disease Management",
+    "url": "https://www.fao.org/banana-diseases",
+    "crop": "Banana",
+    "topic": "Banana Panama Disease Fusarium Wilt Sigatoka Mycosphaerella symptoms treatment prevention",
+    "content": "Banana Fusarium wilt (Panama disease, Fusarium oxysporum f.sp. cubense) causes yellowing of outer leaves, brown internal vascular tissue, and plant death; there is no chemical control. Sigatoka leaf spot (Mycosphaerella fijiensis) causes narrow brown-yellow streaks expanding to large necrotic patches. Management: for Panama disease use only certified disease-free planting material and resistant varieties (FHIA hybrids); for Sigatoka apply regular fungicide programmes, remove lower infected leaves, and maintain adequate soil nutrition."
+  },
+  {
+    "id": "doc_020",
+    "title": "Soybean Rust, Frogeye Leaf Spot, and Phytophthora Root Rot",
+    "source": "University of Illinois Extension",
+    "url": "https://extension.illinois.edu/soybean-diseases",
+    "crop": "Soybean",
+    "topic": "Soybean Rust Phakopsora pachyrhizi Frogeye Leaf Spot Phytophthora Root Rot symptoms treatment prevention",
+    "content": "Soybean rust (Phakopsora pachyrhizi) produces small tan-brown lesions with cream-brown sporulation on lower leaf surfaces. Frogeye leaf spot (Cercospora sojina) shows circular lesions with red-brown borders and grey centres. Phytophthora root rot (Phytophthora sojae) causes yellowing lower canopy, stem browning at soil line, and root decay in wet soils. Management: plant resistant varieties with Rps genes, apply triazole fungicides at R1–R3 for rust, improve drainage for Phytophthora, rotate out of soybean, and avoid compaction."
+  },
+  {
+    "id": "doc_021",
+    "title": "Strawberry Leaf Scorch and Botrytis Grey Mold",
+    "source": "University of California Cooperative Extension",
+    "url": "https://ipm.ucanr.edu/PMG/strawberry-diseases",
+    "crop": "Strawberry",
+    "topic": "Strawberry Leaf Scorch Diplocarpon Botrytis Grey Mold symptoms treatment prevention",
+    "content": "Strawberry leaf scorch (Diplocarpon earlianum) produces small purple-red irregular spots on leaf surfaces with no distinct border, giving a 'scorched' appearance. Botrytis grey mold (Botrytis cinerea) affects flowers, fruit, and leaves causing brown rot covered with dusty grey spores in humid conditions. Management: plant resistant varieties, space plants adequately, remove infected leaves and mummified fruit, apply fungicides (iprodione, fenhexamid) before bloom, avoid overhead irrigation, and pick fruit promptly at maturity."
+  },
+  {
+    "id": "doc_022",
+    "title": "Peach and Cherry Bacterial Spot Control",
+    "source": "North Carolina State Extension",
+    "url": "https://www.ces.ncsu.edu/peach-bacterial-spot",
+    "crop": "Peach Cherry",
+    "topic": "Peach Cherry Bacterial Spot Xanthomonas arboricola symptoms treatment prevention stone fruit",
+    "content": "Bacterial spot on peach and cherry (Xanthomonas arboricola pv. pruni) produces small, water-soaked circular spots on leaves that turn purple-brown with yellow halos, causing early defoliation. On fruit, raised dark lesions with star-shaped cracks develop. Management: plant resistant or tolerant varieties, apply fixed copper bactericides during dormancy and early season at 10-day intervals, avoid overhead irrigation, promote good airflow through pruning, and remove and destroy severely infected plant material."
+  },
+  {
+    "id": "doc_023",
+    "title": "Bell Pepper Bacterial Spot and Phytophthora Blight",
+    "source": "Penn State Extension Vegetable Diseases",
+    "url": "https://extension.psu.edu/bell-pepper-diseases",
+    "crop": "Pepper Bell Pepper",
+    "topic": "Bell Pepper Bacterial Spot Phytophthora Blight symptoms treatment prevention capsicum",
+    "content": "Bell pepper bacterial spot (Xanthomonas euvesicatoria) shows water-soaked spots turning brown-black on leaves and fruit. Phytophthora blight (Phytophthora capsici) causes rapid crown rot, leaf wilting, and dark streaks on stems followed by sudden plant collapse in waterlogged conditions. Management: use certified disease-free seed, apply copper bactericides, improve field drainage, practice 3-4 year rotation away from pepper and cucurbits, avoid wounding roots, and use drip irrigation."
+  },
+  {
+    "id": "doc_024",
+    "title": "Powdery Mildew Management in Cucurbits, Squash, and Cherries",
+    "source": "FAO Plant Production and Protection Division",
+    "url": "https://www.fao.org/plant-protection",
+    "crop": "Squash Cucurbit Cherry",
+    "topic": "Powdery Mildew Erysiphe Podosphaera symptoms treatment organic prevention",
+    "content": "Powdery mildew produces white talcum-like fungal colonies on leaf and stem surfaces. Unlike most fungi it does NOT require liquid water to germinate, thriving in warm dry days with high nighttime humidity. Symptoms: white powdery coating on leaves, distortion, yellowing, premature drop. Management: maintain good air circulation, apply potassium bicarbonate, horticultural mineral oils, or sulfur sprays at first sign of colonies. Conventional fungicides: myclobutanil, tebuconazole. Plant resistant varieties where available. Avoid excess nitrogen fertilizer."
+  },
+  {
+    "id": "doc_025",
+    "title": "General Integrated Pest Management and Disease Scouting Protocol",
+    "source": "FAO Sustainable Crop Production Guidelines",
+    "url": "https://www.fao.org/agriculture/ipm",
+    "crop": "General All Crops",
+    "topic": "IPM Integrated Pest Management Disease Scouting Monitoring frequency schedule crop inspection",
+    "content": "Integrated Pest Management (IPM) combines cultural controls (crop rotation, resistant varieties, drip irrigation), physical controls (mulching, trellising), biological controls (beneficial insects, Bacillus subtilis bio-fungicides), and chemical applications as a last resort. Field scouting frequency: vegetable and annual crops should be scouted at least twice weekly during peak disease season; perennial tree crops weekly. Record disease incidence, lesion progression, and environmental conditions. Treat when economic thresholds are exceeded, not on a calendar schedule. Proper plant spacing and canopy management are cost-effective cultural prevention strategies for all crops."
+  },
+  {
+    "id": "doc_026",
+    "title": "Organic and Biological Disease Management for Vegetable Crops",
+    "source": "USDA National Organic Program Research",
+    "url": "https://www.ams.usda.gov/organic-crop-disease-management",
+    "crop": "All Vegetables Organic",
+    "topic": "Organic Biological Disease Management Bio-fungicides Bacillus copper organic prevention treatment",
+    "content": "Organic-compliant disease management uses: (1) Copper-based fungicides and bactericides (copper hydroxide, copper octanoate) effective against bacterial and some fungal diseases; (2) Sulfur for powdery mildew and early blight suppression; (3) Biological agents — Bacillus subtilis (Serenade), Trichoderma species (biofungicides); (4) Potassium bicarbonate for powdery mildew; (5) Neem oil as broad-spectrum protectant; (6) Compost teas to boost plant immunity. Cultural practices — sanitation, rotation, resistant varieties, and maintaining plant vigor through balanced nutrition — form the foundation of organic disease management."
+  },
+  {
+    "id": "doc_027",
+    "title": "Soil-Borne Disease Management: Fusarium, Pythium, Rhizoctonia",
+    "source": "University of Minnesota Extension Plant Pathology",
+    "url": "https://extension.umn.edu/soil-borne-diseases",
+    "crop": "All Crops Vegetables",
+    "topic": "Soil Borne Disease Fusarium Wilt Root Rot Pythium Rhizoctonia damping off treatment prevention soil fumigation",
+    "content": "Soil-borne diseases (Fusarium wilt, Pythium root rot, Rhizoctonia damping off) are caused by fungi and oomycetes that persist in soil for years. Symptoms include seedling death, crown rot, yellowing, wilting, and vascular discolouration. Management: improve soil drainage, avoid overwatering, apply biological seed treatments (Trichoderma, Bacillus), use certified pathogen-free transplants, solarise soil in hot climates, practice 4-year rotations, maintain optimal soil pH, and avoid compaction which reduces root aeration. Once established in a field, soil fumigation may be the only option for high-value crops."
+  },
+  {
+    "id": "doc_028",
+    "title": "Nutrient Deficiency vs Disease: Key Identification Differences",
+    "source": "University of Wageningen Agricultural Extension",
+    "url": "https://www.wur.nl/plant-diseases-nutrition",
+    "crop": "All Crops",
+    "topic": "Nutrient Deficiency Disease Identification Nitrogen Potassium Iron Yellowing Chlorosis distinguish diagnosis",
+    "content": "Distinguishing nutrient deficiency from disease is critical for correct treatment. Nutrient deficiencies typically: (1) start uniformly on either oldest or youngest leaves depending on nutrient mobility; (2) lack distinct spots or lesions with borders; (3) show uniform yellowing (chlorosis) or purpling. Nitrogen deficiency causes older leaf yellowing from tip; potassium shows marginal leaf scorch; iron deficiency shows interveinal yellowing on young leaves. Diseases typically: produce distinct spots with defined borders, often with colour halos or sporulation; spread from a focal point in the field; and progress across the canopy. Always rule out drought stress, pH imbalance, and waterlogging before applying fungicide."
+  },
+  {
+    "id": "doc_029",
+    "title": "Seed Treatment and Transplant Sanitation Protocols",
+    "source": "FAO Plant Health and Protection",
+    "url": "https://www.fao.org/plant-health",
+    "crop": "All Crops",
+    "topic": "Seed Treatment Transplant Sanitation Disease Prevention Thiram Captan Trichoderma clean seed",
+    "content": "Many plant diseases are seed-borne or introduced through infected transplants. Best practices: (1) Use certified pathogen-free seed from reliable suppliers; (2) Apply fungicide seed treatments (thiram, captan, metalaxyl for oomycetes) or biological seed treatments (Trichoderma, Bacillus subtilis); (3) Hot water treat seed when possible (48–52°C for 20–30 minutes depending on crop); (4) Inspect transplants for symptoms before introducing to field; (5) Disinfect transplanting tools between fields with 10% bleach solution; (6) Never use seed from infected crops or diseased fruit."
+  },
+  {
+    "id": "doc_030",
+    "title": "Post-Harvest Disease Management and Storage Recommendations",
+    "source": "University of California Postharvest Technology Center",
+    "url": "https://postharvest.ucdavis.edu",
+    "crop": "Fruits Vegetables Storage",
+    "topic": "Post Harvest Disease Storage Botrytis Rhizopus Penicillium fruit rot treatment prevention cold storage",
+    "content": "Post-harvest diseases cause significant crop losses. Common pathogens: Botrytis cinerea (grey mold on most fruits), Rhizopus stolonifer (soft rot on stone fruits), Penicillium species (blue-green mold on citrus). Prevention: harvest fruit at proper maturity avoiding mechanical injury; cool immediately to target temperature; maintain 90–95% relative humidity for most produce; apply approved post-harvest fungicides where registered; use ethylene absorbers in storage; sanitize storage bins and cooling equipment between seasons; monitor storage temperature daily."
+  }
+]
