@@ -1,8 +1,6 @@
 import json
 import os
 import torch
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 
 def get_device():
@@ -27,11 +25,10 @@ def load_json(filepath):
 
 def plot_training_curves(history, output_dir):
     """
-    Generate and save loss and accuracy curves.
-
-    history should contain:
-    'train_loss', 'val_loss', 'train_acc', 'val_acc', 'epochs'
+    Generate and save loss and accuracy curves (lazy imports matplotlib).
     """
+    import matplotlib.pyplot as plt
+
     os.makedirs(output_dir, exist_ok=True)
     epochs = range(1, len(history["train_loss"]) + 1)
 
@@ -67,7 +64,10 @@ def plot_training_curves(history, output_dir):
 
 
 def plot_confusion_matrix(cm, class_names, output_dir):
-    """Generate and save confusion matrix heatmap."""
+    """Generate and save confusion matrix heatmap (lazy imports matplotlib/seaborn)."""
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+
     os.makedirs(output_dir, exist_ok=True)
     fig_size = max(10, len(class_names) * 0.4)
     plt.figure(figsize=(fig_size, fig_size))
